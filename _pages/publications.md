@@ -32,5 +32,3 @@ Mares, M. L., **Chen, Y. A.**, & Bond, B. J. (2023). [Mutual socialization durin
 Mares, M. L., **Chen, Y. A.**, & Bond, B. J. (2022). [Mutual influence in LGBTQ teens’ use of media to socialize their parents](https://doi.org/10.1080/15213269.2021.1969950]). *Media Psychology*, *25*(3), 441-468.
 
 **Chen, Y. A.** (2018). Media coverage and social changes: Examining the valence of portrayal of the LGBT community from 2000 to 2014 in two U.S. magazines. Intercultural Communication Studies, *27*(1), 83-95.
-
-![image](https://github.com/chen696/chen696.github.io/assets/63264673/e79fd4ea-b13c-4d06-981c-dfcc9619b4e9)
