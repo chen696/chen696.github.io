@@ -7,7 +7,7 @@ author_profile: true
 
 ## Social Media Use & Youth's Well-Being
 
-**Chen, Y. A.**, Fan, T., Toma, C. L., & Scherr, S. (2022). [International students’ psychosocial well-being and social media use at the onset of the COVID-19 pandemic: A latent profile analysis]([https://doi.org/10.1016/j.chb.2022.107409]). *Computers in Human Behavior*, *137*. Advanced online publication
+**Chen, Y. A.**, Fan, T., Toma, C. L., & Scherr, S. (2022). [International students’ psychosocial well-being and social media use at the onset of the COVID-19 pandemic: A latent profile analysis](https://doi.org/10.1016/j.chb.2022.107409). *Computers in Human Behavior*, *137*. Advanced online publication
 
 Geusens, F., **Chen, Y. A.**, Kerr, B., & Moreno, M. A. (2022). [Disentangling between-person level from within-person level relationships: How sharing alcohol references on Facebook and alcohol use are associated over time](https://doi.org/10.1080/15213269.2022.2138443). *Media Psychology*, *26*(3), 252-277. 
 
