@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Y. Anthony Chen Ph.D."
   pronouns         : "he/him"  
-  bio              : "Exploring Digital Communication's Impact on Youth"
+  bio              : #"Exploring Digital Communication's Impact on Youth"
   location         : "Irvine CA"
   employer         : "University of California, Irvine"
   uri              : # URL
