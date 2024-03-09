@@ -21,8 +21,8 @@ Online Communication & Personal Relationships
 
 ## Other Teaching Service
 Guest Lecturer: 
-Seminar in Computer-Mediated Communication (Graduate Level)
-Introduction to Quantitative Research in Communication (Undergraduate Level)
+- Seminar in Computer-Mediated Communication (Graduate Level)
+- Introduction to Quantitative Research in Communication (Undergraduate Level)
 
 Grader: 
 Online Communication & Personal Relationships X4
