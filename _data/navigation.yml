@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Grants & Fellowships"
+  - title: "Research"
+    url: /research/    
+    
+  - title: "Grants"
     url: /grants/    
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
